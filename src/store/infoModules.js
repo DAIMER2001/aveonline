@@ -7,7 +7,7 @@ const state = {
             {
                 headerTable: ['Date payment', 'Full payment', 'Created at'],
                 api: 'invoice',
-                columns: ['date_payment', 'full_payment', 'created_at'],
+                columns: ['date_payment', 'full_payment', 'CreatedAt'],
                 inputs: [
                   {
                       name: 'date_payment',
